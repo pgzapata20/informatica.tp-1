@@ -11,4 +11,4 @@
 
 ---
 * adjundo link gemini notebooKLM [cuaderno](https://notebook.google.com/notebook/a1080ff6-f26a-4e43-b2c6-6d78e0f88a24?authuser=1)
-* adjunto link claude [cuaderno](https://famous-macaron-1025ec.netlify.app)
+* adjunto link netlify [cuaderno](https://famous-macaron-1025ec.netlify.app)
