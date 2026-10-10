@@ -7,8 +7,9 @@
 * **cuaderno gemini (notebooklm)** utilice los tres archivos (2 excel + 1 word) para generar resumenes y organizar la info.
 * **drive:** guarde los tres archivos en mi drive.
 *  **claude:** solicitud de analisis de evolucion en 5 años, destinos, impacto de cada norma, concluciones y  resumen de exportaciones de té 2020–2025. luego le pido que me genere un indec.html con graficos, portada, materia y tema
-* por ultimo, adjunto indec.html en github.com
+* por ultimo, adjunto index.html en github.com
 
 ---
+* adjunto lick de drive [cuaderno](https://drive.google.com/drive/folders/1ZTBkHdeNxvdYhmALUPE5hIkJTe7r2TFv?usp=drive_link)
 * adjundo link gemini notebooKLM [cuaderno](https://notebook.google.com/notebook/a1080ff6-f26a-4e43-b2c6-6d78e0f88a24?authuser=1)
 * adjunto link netlify [cuaderno](https://famous-macaron-1025ec.netlify.app)
